@@ -8,7 +8,7 @@ This project uses transactional retail data to identify meaningful customer grou
 | --- | --- |
 | `Customer_Segmentation Notebook.ipynb` | Complete interactive analysis with charts, tables, model comparisons, and recommendations |
 | `customer_segmentation.py` | Python version of the analysis pipeline |
-| `Online Retail.xlsx` | Required input dataset; not included in this repository |
+| `Online Retail.xlsx`
 
 ## Objectives
 
